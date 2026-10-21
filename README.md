@@ -83,11 +83,3 @@ Spend is low in early 2025 because all cards were issued between January and Mar
 Some patterns were reported as found and not adjusted: 19.5% of statements show a balance above the credit limit, every statement met the minimum payment, and every statement paid in full was paid after the due date.
 
 Only four reusable DAX measures exist. Figures such as approved purchases and average ticket were calculated for the report. Obvious next steps are a latest-statement utilisation measure, a 30+ day late rate and spend per customer by state.
-
-The data came from the course's student pack for the workshop.
-
-## Team
-
-Mohit Kapoor, Aditya Singh, Manav Goyal, Deeptanshu Vats and Lakshay Gupta.
-
-Contact: [LinkedIn](https://linkedin.com/in/Mohitkapoor2033), mohitkapoor2033@gmail.com
