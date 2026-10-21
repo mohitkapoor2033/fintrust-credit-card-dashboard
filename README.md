@@ -72,14 +72,8 @@ Tools: Excel, Power Query, Power Pivot, DAX, PivotTables and slicers.
 
 ## Files and how to open
 
-`FinTrust_CC_Dashboard.xlsx` is the dashboard with its data model, and `FinTrust_CC_Credit_Card_Business_Review.pdf` is the written report. Open the workbook in desktop Excel (2016 or later, or Microsoft 365) and go to the Dashboard sheet. The data model, slicers and pivot charts do not display correctly in Excel for the web, Google Sheets or LibreOffice.
+`FinTrust_CC_Dashboard.xlsx` is the dashboard with its data model, and `FinTrust_CC_Credit_Card_Business_Review.pdf` is the written report. Open the workbook in desktop Excel (2016 or later, or Microsoft 365) and go to the Dashboard sheet. 
 
 ## Limitations
 
-The KPI tile counts cards that were ever at 80%+ of limit (2,608, or 74.5%), while the report uses the latest statement (1,281). The latest-statement figure is the better measure of cards under pressure now. The utilisation chart counts statements, not cards.
-
 Spend is low in early 2025 because all cards were issued between January and March, and December 2026 is a partial month because the data ends on 14 December. Year-on-year growth is inflated by that roll-out, so it is used to compare categories and not as an absolute rate.
-
-Some patterns were reported as found and not adjusted: 19.5% of statements show a balance above the credit limit, every statement met the minimum payment, and every statement paid in full was paid after the due date.
-
-Only four reusable DAX measures exist. Figures such as approved purchases and average ticket were calculated for the report. Obvious next steps are a latest-statement utilisation measure, a 30+ day late rate and spend per customer by state.
